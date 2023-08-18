@@ -1,0 +1,11 @@
++ chatHCB v1.0 Alpha [2023]
+
+* Bu sohbet botunun bu hali spesisifik bir hizmet sunmaktan çok Insomnobot-3000 benzeri sohbet edilebilir bir uygulama olarak kullanılabilir.
+* İçerisinde sözlük barındıyor.
+* Sözlük kısımı için arancak kelimeyi boşluk karakteri kullanmadan girmeniz yeterlidir.
+* Sözlük kısımı için iki tane mod bulunuyor biri normal mod biri derin mod derin modda aranan kelimenin cevabı sadece sözlük başlığı olarak değil anlam içersinde de aranıyor, normal modda ise sadece sözlük başlığı olarak aranıyor. 
+* Sohbet kısımı içerisinde verilecek cevabı eğer tek bir kelime olarak seçtiyseniz sonuna bir boşluk karakteri eklemelisiniz. Aksi takdirde sohbet modundan çıkacaksınız.
+* İlerleyen aşamada web tabanlı daha kolay erişilebilir, daha kullanışlı ve daha güzel görünen bir arayüze sahip versiyonları olacaktır. 
+* chatHCB'nin cevap olarak neyi seçtiğini tahmin etmek zor olduğundan her türlü kötü söz veya hakaret v.b. olaylardan sorumlu değilim.
+
+-Hasan Can Beydili
